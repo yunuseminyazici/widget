@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>my widget</title>
-</head>
 <body>
 
 <table class="ws-table-all notranslate" style="margin:0">
